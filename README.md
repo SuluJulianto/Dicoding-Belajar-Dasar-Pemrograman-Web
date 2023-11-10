@@ -1,2 +1,2 @@
 # Dicoding-Belajar-Dasar-Pemrograman-Web
-Tugas Akhir membuat Website Dicoding
+Submission: Tugas Akhir Membuat Website dari www.dicoding.com 
